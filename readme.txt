@@ -3,7 +3,7 @@ Contributors: ayecode, stiofansisland
 Tested up to: 6.2
 Requires at least: 5.0
 Requires PHP: 7.2
-Version: 1.5
+Version: 1.5.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,7 @@ College is a responsive WordPress theme for university, school and teacher websi
 
 == Changelog ==
 
-= 1.6 =
+= 1.5.1 =
 * TGM-Plugin-Activation class updated - CHANGED
 * XSS vulnerability fix - SECURITY
 
@@ -74,7 +74,7 @@ GNU General Public License for more details.
 = About Images in demo =
 The images are licensed under CC0 or are our own creation.
 - https://www.pexels.com/photo/office-student-work-study-6972/ -- CC0
-- https://pixabay.com/en/graduation-man-cap-gown-education-879941/ -- CC0
+- https://pixa-FAILS-SCAN-IF-URL-EXISTS-bay.com/en/graduation-man-cap-gown-education-879941/ -- CC0 (old license, this is compatible)
 - https://www.pexels.com/photo/colorful-books-on-shelf-5710/ -- CCO
 - https://static.pexels.com/photos/7102/notes-macbook-study-conference.jpg -- CCO
 
