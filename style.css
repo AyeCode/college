@@ -1,19 +1,24 @@
 /*
 Theme Name: College
-Theme URI: https://ketchupthemes.com/college-theme/#free
-Author: Ketchupthemes
-Author URI: https://ketchupthemes.com
-Description: College is a responsive WordPress theme for university, school and teacher websites. Some of the features that the College theme includes are multiple columns, homepage, customizer options, sliders,  recommended shortcodes, responsive layout (built on top of Twitter Bootstrap boilerplate), full width pages, pages with sidebars and more.
+Author: AyeCode Ltd
+Author URI: https://ayecode.io
+Theme URI: https://wordpress.org/themes/college
 Version: 1.5
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Description: College is a responsive WordPress theme for university, school and teacher websites. Some of the features that the College theme includes are multiple columns, homepage, customizer options, sliders, recommended shortcodes, responsive layout, full width pages, pages with sidebars and more.
 Tags: yellow, dark, light, two-columns, responsive-layout, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, sticky-post, threaded-comments, translation-ready
 Text Domain: college
+Requires at least: 5.0
+Requires PHP: 7.2
+Tested up to: 6.2
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-/*
-* Main Classes and ids
+All files, unless otherwise stated, are released under the GNU General Public
+License version 2.0 (http://www.gnu.org/licenses/gpl-2.0.html)
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
 */
-
 
 body{
     word-wrap: break-word;
