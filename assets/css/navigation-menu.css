@@ -1,0 +1,104 @@
+#college-main-navigation{
+     float:right;
+ }
+#college-main-navigation ul
+{
+    list-style:none;
+    position:relative;
+    float:left;
+    margin:0;
+    padding:0
+}
+#college-main-navigation ul li
+{
+    position:relative;
+    float:left;
+    margin: 0 20px 0 30px;
+    padding:0
+}
+#college-main-navigation ul li:last-child{
+    margin-right:0;
+}
+#college-main-navigation ul li.current-menu-item
+{
+    text-decoration: underline;
+}
+#college-main-navigation ul a
+{
+    display:block;
+    text-decoration:none;
+}
+
+#college-main-navigation ul ul
+{
+    display:none;
+    position:absolute;
+    top:auto;
+    left:0;
+    background:#0c6ad5;
+    border-top:4px solid #ffc61a;
+    padding:0;
+    z-index:100;
+}
+#college-main-navigation ul ul li
+{
+    float:none;
+   width:155px;
+    margin:0;
+}
+#college-main-navigation ul ul a
+{
+    line-height:120%;
+    padding:10px 15px;
+    font-size:14px;
+
+}
+#college-main-navigation ul ul ul
+{
+    top:-2px;
+    left:100%;
+    border-top:4px solid #0c6ad5;
+}
+#college-main-navigation ul li:hover > ul
+{
+    display:block
+}
+/*
+* Secondary navigation
+*/
+#college-top-navigation{
+    list-style-type: none;
+}
+#college-top-navigation ul {
+    list-style: none;
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0
+}
+#college-top-navigation ul li{
+    display:inline-block;
+    margin:0 15px 0 0;
+}
+#college-top-navigation ul ul{
+    display:none;
+}
+#college-top-navigation ul li a{
+    font-size:12px;
+    color:#0c6ad5;
+}
+#college-top-navigation ul li a:hover{
+    color: #ffc61a;
+}
+/*
+* Responsive Menu
+*/
+.slicknav_menu{
+    display:none;
+}
+/*
+* Responsive Overrides
+*/
+.slicknav_btn{
+    float:left !important;
+}

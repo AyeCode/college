@@ -1,0 +1,96 @@
+/*
+* Responsive Media Queries
+*/
+@media screen and (min-width: 1400px) and (max-width: 2000px) {
+    .college-slide-content{
+        width:38%;
+        top:30%;
+        left:15%;
+    }
+    .college-slide-content h1{
+        font-weight:100;
+    }
+}
+@media screen and (max-width: 1399px) {
+
+    .college-slide-content{
+        width:40%;
+        top:18.5%;
+        left:10%;
+        font-size:18px;
+    }
+    .college-slide-content h1{
+        font-size:44px;
+        font-weight:100;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .responsive-menu {
+        display: none;
+    }
+
+    #mobile-header{
+        display:block !important;
+    }
+
+    .college-slide-content{
+        width:40%;
+        top:8.5%;
+        left:10%;
+        font-size:16px;
+    }
+    .college-slide-content h1{
+        font-size:36px;
+        font-weight:100;
+    }
+}
+
+@media screen and (max-width: 992px) {
+
+    .comment-body > .row > .col-md-10 {
+        margin-left: 0 !important;
+    }
+
+    .custom-search-form input[type="text"],
+    .custom-search-form select{
+        width:100% !important;
+        margin:0 !important;
+    }
+    .custom-search-form input[type="text"]:first-child{
+        margin:0 !important;
+    }
+    .custom-search-form input[type="submit"]{
+       margin:0 !important;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    #college-socials-list {
+        float: none;
+        text-align: center;
+        list-style-type: none;
+    }
+
+    #college-logo {
+        text-align: center;
+    }
+
+    #logo {
+        margin: 0 auto;
+    }
+
+    .college-slide-content p{
+        /*display:none;*/
+    }
+    .college-slide-btn{
+        /*display:none;*/
+        margin-top:20px;
+    }
+}
+
+@media screen and (max-width: 520px) {
+
+
+}

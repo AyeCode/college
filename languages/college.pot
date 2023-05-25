@@ -1,0 +1,542 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: College Theme\n"
+"POT-Creation-Date: 2015-12-04 13:22+0200\n"
+"PO-Revision-Date: 2015-12-04 13:22+0200\n"
+"Last-Translator: \n"
+"Language-Team: Ketchupthemes.com <info@ketchupthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:20 comments.php:39
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:21 comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:22 comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:56
+msgid "Name"
+msgstr ""
+
+#: comments.php:61
+msgid "Email"
+msgstr ""
+
+#: comments.php:66
+msgid "Website"
+msgstr ""
+
+#: comments.php:70
+msgid "LEAVE A REPLY"
+msgstr ""
+
+#: comments.php:71
+#, php-format
+msgid "LEAVE A REPLY to %s"
+msgstr ""
+
+#: framework/college-init.php:68
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:301
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/college-init.php:69
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:302
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/college-init.php:70
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:303
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/college-init.php:71
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:304
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/college-init.php:132
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:365
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/college-init.php:133
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:367
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2957
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/college-init.php:134
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:368
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: framework/college-init.php:135
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:369
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/college-init.php:136
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:370
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/college-init.php:137
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/college-init.php:138
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:373
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/college-init.php:211
+msgid "Search Results"
+msgstr ""
+
+#: framework/college-init.php:214
+#: framework/partials/common-partials/title.php:25
+msgid "Archive for: "
+msgstr ""
+
+#: framework/college-init.php:216 framework/college-init.php:218
+#: framework/partials/common-partials/title.php:27
+#: framework/partials/common-partials/title.php:29
+msgid "Archive for "
+msgstr ""
+
+#: framework/college-init.php:225
+msgid "Go to the homepage"
+msgstr ""
+
+#: framework/college-init.php:225
+msgid "Home"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:10
+msgid "Frontpage Settings"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:11
+msgid "Settings for the frontpage. Please do the following:college"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:12
+msgid "Create A new page."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:13
+msgid "Assign the presentation template to it."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:14
+msgid "Go to the Reading Settings and assign it as the front page."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:121
+msgid "Show the slider"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:125
+#: framework/customizer/customizer-init.php:263
+msgid "Disabled"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:126
+#: framework/customizer/customizer-init.php:264
+msgid "Enabled"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:134
+msgid "Slide 1"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:142
+msgid "Slide 2"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:151
+msgid "Slide 3"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:161
+msgid "Image 1 below content"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:173
+msgid "Image 2 below content"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:185
+msgid "Image 3 below content"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:196
+msgid "Staff 1 page ,it appears below the images tha are set above"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:205
+msgid "Staff 2 page ,it appears below the images tha are set above"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:214
+msgid "Staff 3 page ,it appears below the images tha are set above"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:223
+msgid "Staff 4 page ,it appears below the images tha are set above"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:233
+msgid "General Settings"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:234
+msgid "Logo, and other general settings."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:259
+msgid "Show the loader"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:274
+msgid "Upload a logo"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:366
+msgid "Return to the dashboard"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:372
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2120
+msgid "Required"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2123
+msgid "Recommended"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2139
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2142
+msgid "External Source"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2145
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2162
+msgid "Not Installed"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2166
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2168
+msgid "Active"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2174
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2177
+msgid "Requires Update"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2180
+msgid "Update recommended"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2332
+msgid "Installed version:"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2340
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2352
+msgid "Available version:"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2375
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2389
+msgid "Plugin"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2390
+msgid "Source"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2391
+msgid "Type"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2395
+msgid "Version"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2396
+msgid "Status"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2556
+msgid "Install"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2562
+msgid "Update"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2565
+msgid "Activate"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2596
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2598
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2634
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2636
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2956
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:3286
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:3288
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:3289
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:3293
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:3294
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:3295
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:3296
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:3299
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:3301
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:3302
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/partials/common-partials/featured-image.php:15
+#: framework/partials/common-partials/featured-image.php:22
+msgid "featured image"
+msgstr ""
+
+#: framework/partials/common-partials/meta.php:13
+msgid "By "
+msgstr ""
+
+#: framework/partials/common-partials/title.php:14
+msgid "Posts in category: "
+msgstr ""
+
+#: framework/partials/common-partials/title.php:17
+msgid "Posts tagged with: "
+msgstr ""
+
+#: framework/partials/common-partials/title.php:20
+msgid "Search results for:  "
+msgstr ""
+
+#: framework/partials/footer-partials/copyright.php:8
+msgid "created by"
+msgstr ""
+
+#: framework/partials/footer-partials/copyright.php:9
+msgid "http://ketchupthemes.com/college-theme/"
+msgstr ""
+
+#: framework/partials/footer-partials/copyright.php:9
+msgid "Ketchupthemes.com"
+msgstr ""
+
+#: framework/partials/main-content/boxed-9-content.php:46
+msgid "READ MORE"
+msgstr ""
+
+#: framework/partials/main-content/boxed-9-content.php:60
+msgid "There are not any posts availablecollege"
+msgstr ""
+
+#: functions.php:37
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:184
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: functions.php:185
+msgid ""
+"Upgrade to a full feature college theme. Add staff, modules, courses, events "
+"plus many more!"
+msgstr ""
+
+#: functions.php:186
+msgid "- OR CHECK -"
+msgstr ""
+
+#: functions.php:187
+msgid "Premium Demo"
+msgstr ""
+
+#: functions.php:231
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:235
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: functions.php:240
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:240
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:268
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:270
+msgid ""
+"This is the main sidebar.It is in every page - post. However you can "
+"override this setting from within each post."
+msgstr ""
+
+#: functions.php:280
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: functions.php:282
+msgid "This is the sidebar in the footer, on the left"
+msgstr ""
+
+#: functions.php:290
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: functions.php:292
+msgid "This is the sidebar in the footer, the second on the left"
+msgstr ""
+
+#: functions.php:300
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: functions.php:302
+msgid "This is the sidebar in the footer, the second on the right"
+msgstr ""
+
+#: functions.php:310
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: functions.php:312
+msgid "This is the sidebar in the footer, on the right"
+msgstr ""
+
+#: functions.php:338
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: page-templates/presentation.php:57
+msgid "Staff"
+msgstr ""
+
+#: page-templates/presentation.php:67
+msgid "View this member of staff"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search"
+msgstr ""
