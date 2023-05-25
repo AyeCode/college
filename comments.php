@@ -55,12 +55,12 @@ if ( post_password_required()) {
                 <div class="col-lg-6">
             <p class="comment-form-author"><label for="author">' . __('Name', 'college') . '</label> ' . ($req ? '<span class="required">*</span>' : '') .
             '<input id="author" name="author" type="text" value="' . esc_attr($commenter['comment_author']) .
-            '" size="30"' . $aria_req . ' /></p>',
+            '" size="30"' . ( isset( $aria_req ) ? $aria_req : '' ) . ' /></p>',
 
         'email' =>
             '<p class="comment-form-email"><label for="email">' . __('Email', 'college') . '</label> ' .($req ? '<span class="required">*</span>' : '') .
             '<input id="email" name="email" type="text" value="' . esc_attr($commenter['comment_author_email']) .
-            '" size="30"' . $aria_req . ' /></p>',
+            '" size="30"' . ( isset( $aria_req ) ? $aria_req : '' ) . ' /></p>',
 
         'url' =>
             '<p class="comment-form-url"><label for="url">' . __('Website', 'college') . '</label>' .   '<input id="url" name="url" type="text" value="' . esc_attr($commenter['comment_author_url']) .

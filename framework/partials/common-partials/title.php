@@ -17,7 +17,7 @@ $alt_title = get_theme_mod('college-change-blog-title', '');
     <h1 id="single-title"><?php echo __('Posts tagged with: ', 'college'); ?><?php single_tag_title(); ?></h1>
 
 <?php elseif (is_search()): ?>
-    <h1 id="single-title"><?php echo __('Search results for:  ', 'college') . get_query_var('s'); ?></h1>
+    <h1 id="single-title"><?php echo __('Search results for:  ', 'college') . esc_html( get_search_query() ); ?></h1>
 
 <?php elseif (is_archive()): ?>
 
@@ -29,7 +29,7 @@ $alt_title = get_theme_mod('college-change-blog-title', '');
         $archive = __('Archive for ', 'college') . get_the_time('F jS, Y');
     endif; ?>
 
-    <h1 id="single-title"><?php echo $archive; ?></h1>
+    <h1 id="single-title"><?php echo ( isset( $archive ) ? $archive : '' ); ?></h1>
 <?php else: ?>
-    <h1 id="single-title" class="animated <?php echo $title_transition; ?>"><?php the_title(); ?></h1>
+    <h1 id="single-title" class="animated <?php echo ( isset( $title_transition ) ? esc_attr( $title_transition ) : '' ); ?>"><?php the_title(); ?></h1>
 <?php endif; ?>

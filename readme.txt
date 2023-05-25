@@ -13,6 +13,10 @@ College is a responsive WordPress theme for university, school and teacher websi
 
 == Changelog ==
 
+= 1.6 =
+* TGM-Plugin-Activation class updated - CHANGED
+* XSS vulnerability fix - SECURITY
+
 = 1.5 =
 * Complete Theme rewrite.
 
